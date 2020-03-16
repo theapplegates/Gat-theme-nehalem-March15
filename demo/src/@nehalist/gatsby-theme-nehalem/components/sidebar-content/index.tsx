@@ -31,10 +31,5 @@ const DownloadButton = styled.a`
   }
 `;
 
-const SidebarContent: FunctionComponent = () => {
-  return (
-    </StickySidebarContent>
-  );
-};
 
 export default SidebarContent;
